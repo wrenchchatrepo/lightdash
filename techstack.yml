@@ -2,7 +2,7 @@ repo_name: wrenchchatrepo/lightdash
 report_id: 9844a96c7d14f8fe1ff6a200d954ee22
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-29T03:10:36+00:00'
+timestamp: '2024-02-29T20:15:05+00:00'
 requested_by: semantic-release-bot
 provider: github
 branch: main
